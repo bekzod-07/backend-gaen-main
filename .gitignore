@@ -1,0 +1,13 @@
+gaen/.env
+gaen/.env/
+.idea
+.idea/
+.vscode
+.github
+venv
+*.pyc
+.DS_Store
+*.xml
+media
+media/
+db.sqlite3
